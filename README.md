@@ -26,7 +26,7 @@ If you're interested in remixing or freaking these designs - either for our use 
 
 If you have design improvements you want to make to these original designs, then request a commit - I think. Right? Or something. You may know better than I (at this point).
 
-[1]: https://github.com/qaidj/Found-Sound-Designs/blob/master/README.md
+[1]: https://github.com/qaidj/Found-Sound-Designs/blob/master/LICENSE.md
 [3]: http://www.adobe.com/products/illustrator.html 
 [4]: http://inkscape.org/
 [5]: http://www.skencil.org/
