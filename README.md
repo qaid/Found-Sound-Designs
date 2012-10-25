@@ -26,17 +26,7 @@ If you're interested in remixing or freaking these designs - either for our use 
 
 If you have design improvements you want to make to these original designs, then request a commit - I think. Right? Or something. You may know better than I (at this point).
 
-
-
-<a id="license"></a>License and Usage
--------------------------------------
-
-The original designs here are licensed under the [Creative Commons BY-NC-SA license][2], or Attribution-NonCommerical-ShareAlike. ![Creative Commons CC-BY-NC-SA image](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
-
-In [their] other words: _This license lets others remix, tweak, and build upon my work non-commercially, as long as they credit me and license their new creations under the identical terms._ So, have at it (but don't get paid off of it), and credit a bro for the original steeze. Plus, whatever is made, needs to be made available for other to freak and tweak as well in the same way.
-
-[1]: #license
-[2]: http://creativecommons.org/licenses/by-nc-sa/3.0/ 
+[1]: https://github.com/qaidj/Found-Sound-Designs/blob/master/README.md
 [3]: http://www.adobe.com/products/illustrator.html 
 [4]: http://inkscape.org/
 [5]: http://www.skencil.org/
