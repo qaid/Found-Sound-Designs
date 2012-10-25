@@ -1,7 +1,13 @@
 What the Hell Is This? There's no code (a/k/a the Introduction)
 ===============================================================
 
-It's true, this isn't a traditional code-based project. Instead, this is largely an opportunity for me to continue to expand my Git skills by using a version control system around my graphic design. (And in the case of this document, my Markdown skills.) The version control aspect of this is also important as I'm looking for a way to preserve and be able to re-use my 2-D and graphic design patterns. I also wanted an opportunity to dig into the Github API to see if I can creatively display the design process around this project on webpages.
+It's true, this isn't a traditional code-based project. Instead, this is largely an opportunity for me to continue to expand my Git skills by using a version control system around my graphic design. (And in the case of this document, my Markdown skills.) The version control aspect of this is also important as I'm looking for a way to:
+
+1. preserve the history of the design's progression without having many separate v1, v2, etc. files 
+2. be able to re-use my 2-D and graphic design patterns
+3. Save my fingers from the crippling effects of multi-command-z strikes to get back to points before design deviations. 
+
+I also wanted an opportunity to dig into the Github API to see if I can creatively display the design process around this project on webpages.
 
 Even more interestingly, I supposed there's also a chance this could be an experiment in collaborative design if others become interested in this and want to contribute or fork their own visions for these design materials. I'm totally open to that. [The License][1] should be able to take care of any confusing situations that might arise.
 
